@@ -1,14 +1,14 @@
-# introduction
+# Introduction
 
 crude-box is framework agnostic and simplistic data management system. Crude-box-react is interface between crude-box and react.
 
-# installation
+# Installation
 
 ```
 npm install crude-box crude-box-react
 ```
 
-# example
+# Example
 
 crude.js
 
@@ -44,3 +44,6 @@ function App() {
 
 export default subscribe(crude, [store.test, store.test2])(App);
 ```
+
+# State of the project
+The project is postponed in to the indefinite future.
